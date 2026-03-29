@@ -1,13 +1,14 @@
-# Interpolate
+# interpolate
 
-Interpolation: linear, cubic spline, Lagrange.
+Interpolation methods - Lagrange, Newton, cubic spline, and Chebyshev
 
 ## Usage
 
 ```bash
-python3 interpolate.py
+python3 interpolate.py --help
 ```
 
-## License
+## Features
 
-MIT
+- Zero dependencies (Python 3.8+ stdlib only)
+- Single file implementation
